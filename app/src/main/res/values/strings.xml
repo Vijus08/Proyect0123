@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyect0</string>
+    <string name="tituloapp">Datos Escolares</string>
+    <string name="hNombre">Ingrese su Nombre</string>
+    <string name="hMatricula">Ingrese su Matrícula</string>
+    <string name="hCorreo">Ingrese su Correo Electrónico</string>
+    <string name="hPromedio">Ingrese su Promedio Final</string>
+    <string name="tbnGrabar">Ingresar Datos</string>
+    <string name="dNombre">Nombre del Alumno</string>
+    <string name="dMatricula">Matricula</string>
+    <string name="dCorreo">Correo Electrónico</string>
+    <string name="dPromedio">Promedio Final</string>
+</resources>
